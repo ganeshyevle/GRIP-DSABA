@@ -1,5 +1,5 @@
-Data Science and Business Analytics
-Task1: Prediction using supervised ML model( Linear regression)
+## Data Science and Business Analytics
+## Task1: Prediction using supervised ML model( Linear regression)
 The Sparks Foundation
 
 AUTHOR: GANESH KAILAS YEVLE
