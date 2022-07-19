@@ -1,5 +1,5 @@
-Data Science and Business Analytics
-Task3: Exploratory Data Analysis on Sample Superstore Dataset.
+# Data Science and Business Analytics
+## Task3: Exploratory Data Analysis on Sample Superstore Dataset.
 The Sparks Foundation
 
 AUTHOR: GANESH KAILAS YEVLE
