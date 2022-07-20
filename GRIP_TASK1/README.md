@@ -16,7 +16,7 @@ Language: Python<br>
 IDE: Jupyter Notebook<br>
 Level: Beginner<br>
 Dataset link: http://bit.ly/w-data<br>
-GitHub Link: https://github.com/ganeshyevle/GRIP-DSABA/tree/main/GRIP_TASK1<br>
+GitHub Link: https://lnkd.in/dpd_qShg<br>
 
 A special thanks to The Sparks Foundation for this opportunity.
 
